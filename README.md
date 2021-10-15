@@ -1,6 +1,6 @@
 # **BIN784 - Bioinformatics for Population Genetics** 
 
-*Gülşah Merve Kılınç*
+
 
 *Teaching material for BIN784 - Bioinformatics for Population Genetics /  @Dept of Bioinformatics @Hacettepe University*
 
