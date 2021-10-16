@@ -1,0 +1,1 @@
+This folder contains 2 different file sets including PED and EIGENSTRAT files for 35 present-day individuals from [1240K_dataset](https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data). This subset contains only Chr22 SNPs.
