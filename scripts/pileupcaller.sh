@@ -3,8 +3,8 @@
 #Use pileupcaller (https://github.com/stschiff/sequenceTools) and SAMtools (http://samtools.sourceforge.net)
 
 #Programs
-samtools='/please/type/here/path/to/your/samtools'
-pileupcaller='/please/type/here/path/to/your/pileupcaller'
+samtools='/type/here/path/to/your/samtools'
+pileupcaller='/type/here/path/to/your/pileupcaller'
 
 bamlist=$1
 reference=$2
