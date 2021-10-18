@@ -1,3 +1,5 @@
 #!/bin/bash
 
-convertf -p par.convert
+parfile=$1
+
+convertf -p ${parfile}
