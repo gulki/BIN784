@@ -4,8 +4,8 @@
 
 *Teaching material for BIN784 - Bioinformatics for Population Genetics /  @Dept of Bioinformatics @Hacettepe University*
 
-This repository contains course material -files for teaching basic population genetics analysis in the course BIN784 - 
-Bioinformatics for Population Genetics which I teach @Dept of Bioinformatics @Hacettepe University for PhD Programme.
+This repository contains course material -files for teaching basic population genetics analysis in BIN784 - 
+Bioinformatics for Population Genetics which I teach @Dept of Bioinformatics @Hacettepe University.
 
 ### **REFERENCES:**
 
