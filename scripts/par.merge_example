@@ -1,0 +1,11 @@
+geno1: file.geno
+snp1:  file.snp
+ind1:  file.ind
+geno2: file2.geno
+snp2:  file2.snp
+ind2:  file2.ind
+genooutfilename:   final.geno
+snpoutfilename:    final.snp
+indoutfilename:    final.ind
+strandcheck: NO
+hashcheck: NO
