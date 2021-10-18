@@ -1,0 +1,12 @@
+genotypename: data.geno
+snpname:      data.snp
+indivname:    data.ind
+outputformat: PED
+genooutfilename:   data.ped
+snpoutfilename:    data.map
+indoutfilename:    data.pedind
+outputgroup: YES
+familynames: NO
+hashcheck: NO
+allowdups:  YES
+pordercheck: NO
