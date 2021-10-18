@@ -1,0 +1,3 @@
+Week2: Read your plink frequency output file in R and compute expected genotype frequencies per SNP in a present-day population that you select [basic]. 
+
+Week 2: Compute deviation from HWE by comparing expected genotype frequency for a SNP that you select vs observed genotype frequency [if you are familiar with R]. 
