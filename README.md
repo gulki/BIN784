@@ -40,22 +40,22 @@ Bioinformatics for Population Genetics which I teach @Dept of Bioinformatics @Ha
 
 **Reading suggestions:** Nielsen and Slatkin 2013 An Introduction to Population Genetics Chapter 2
 
-Week-4  Discovery analyses - PCA and ADMIXTURE
+Week-4  Discovery analyses - PCA 
 
-Week-5  Genotype-likelihoods based analysis - ANGSD
+Week-5  Discovery analyses - ADMIXTURE 
 
-Week-6  Measuring genetic diversity: Linkage disequilibrium and homozygosity
+Week-6  Genotype-likelihoods based analyses - ANGSD 
 
 Week-7  Midterm-1
 
-Week-8  Migration and gene flow
+Week-8  Modelling: QpAdm
 
-Week-9 Studying population history: Effective population size through MSMC
+Week-9  Admixture graph fitting: QpGraph
 
-Week-10 Introduction to QpAdm and QpGraph
+Week-10  Measuring diversity: LD and ROH
 
-Week-11 Approaches to measure selection
+Week-11 Selection analysis
 
-Week-12 Palaeogenomics
+Week-12 Forward-time genetic simulations: SLiM
 
 Week-13 Student presentations
