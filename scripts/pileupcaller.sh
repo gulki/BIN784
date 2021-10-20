@@ -1,6 +1,8 @@
 #!/bin/bash
 #Preparing a genotype dataset from low coverage sequencing data 
 #Use pileupcaller (https://github.com/stschiff/sequenceTools) and SAMtools (http://samtools.sourceforge.net)
+#Usage: sh ./pileupcaller.sh bamlist /path/to/ref /path/to/bedfile /path/to/eigenstrat Sample1,Sample2
+
 
 #Programs
 samtools='/type/here/path/to/your/samtools'
