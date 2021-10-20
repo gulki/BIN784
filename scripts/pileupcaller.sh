@@ -14,6 +14,6 @@ bedfile=$3
 eigenstrat=$4
 samplenames=$5 #comma-separated list of samplenames
 
-$samtools mpileup -R -B -q30 -Q30 -l ${bedfile} -f ${ref} $(cat ${bamlist} | xargs) > ${bamlist}.pileup.txt
+$samtools mpileup -R -B -q30 -Q30 -l ${bedfile} -f ${reference} $(cat ${bamlist} | xargs) > ${bamlist}.pileup.txt
 
 $pileupcaller --sampleNames ${samplenames} -f ${eigenstrat} -e ${bamlist}.out < ${bamlist}.pileup.txt
