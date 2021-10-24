@@ -36,8 +36,6 @@ Bioinformatics for Population Genetics which I teach @Dept of Bioinformatics @Ha
 
 **Aim:** Understanding genetic drift. Studying the relationships (allele frequency correlations) between populations: Introduction to F-statistics.
 
-Hands-on: Becoming familiar with the AdmixTools, running F-statistics
-
 **Hands-on:** Becoming familiar with the AdmixTools, running F-statistics
 
 **Reading suggestions:** Nielsen and Slatkin, 2013, Chapter 2; Peter B, 2016, doi:10.1534/genetics.115.183913
