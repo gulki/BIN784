@@ -32,13 +32,16 @@ Bioinformatics for Population Genetics which I teach @Dept of Bioinformatics @Ha
 
 **Reading suggestions:** Nielsen and Slatkin 2013 An Introduction to Population Genetics Chapter 1
 
-**Week-3**  Mutation and Genetic Drift
+**Week-3** Genetic Drift, mutation and studying the shared evolutionary history of populations
 
-**Aim:** Learning about mutation and genetic drift, relationships between populations
+**Aim:** Understanding genetic drift. Studying the relationships (allele frequency correlations) between populations: Introduction to F-statistics.
+
+Hands-on: Becoming familiar with the AdmixTools, running F-statistics
 
 **Hands-on:** Becoming familiar with the AdmixTools, running F-statistics
 
-**Reading suggestions:** Nielsen and Slatkin 2013 An Introduction to Population Genetics Chapter 2
+**Reading suggestions:** Nielsen and Slatkin, 2013, Chapter 2; Peter B, 2016, doi:10.1534/genetics.115.183913
+, Patterson et al, 2012 doi: 10.1534/genetics.112.145037; https://github.com/bodkan/admixr
 
 Week-4  Discovery analyses - PCA 
 
