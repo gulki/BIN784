@@ -32,7 +32,7 @@ Bioinformatics for Population Genetics which I teach @Dept of Bioinformatics @Ha
 
 **Reading suggestions:** Nielsen and Slatkin 2013 An Introduction to Population Genetics Chapter 1
 
-**Week-3** Genetic Drift, mutation and studying the shared evolutionary history of populations
+**Week-3** Genetic drift, mutation and studying the shared evolutionary history of populations
 
 **Aim:** Understanding genetic drift. Studying the relationships (allele frequency correlations) between populations: Introduction to F-statistics.
 
