@@ -25,3 +25,11 @@ python3 ./combination.py x f4_all_combs.txt
 
 /usr/local/sw/AdmixTools/bin/qpDstat -p par.example2_f4 > result2_par.example_f4
 
+#Plot results
+
+grep result: result1_par.example_f4 > result1_forplot.txt
+
+grep result: result2_par.example_f4 > result2_forplot.txt
+
+
+
