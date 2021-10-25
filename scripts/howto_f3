@@ -1,4 +1,0 @@
-#STEP1: Generate combination file for admixture f3
-
-python3 f3_combs.py f3_uniq_pops.txt f3_combs French
-

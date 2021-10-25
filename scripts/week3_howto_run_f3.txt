@@ -1,0 +1,16 @@
+#STEP1: Generate combination file for admixture f3 https://github.com/DReichLab/AdmixTools/blob/master/README.3PopTest 
+
+python3 f3_combs.py f3_uniq_pops.txt f3_combs French
+
+#STEP2: Prepare a par file: par.example_f3
+
+genotypename:   bin784_example_fstat.geno
+snpname:   bin784_example_fstat.snp
+indivname:   bin784_example_fstat.ind
+popfilename: f3_combs
+
+#STEP3: Run f3 statistics
+
+/usr/local/sw/AdmixTools/bin/qp3Pop -p par.example_f3 > result_examplef3
+
+#STEP4: Plot the result w/ R 
