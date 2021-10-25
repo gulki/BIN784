@@ -31,5 +31,6 @@ grep result: result1_par.example_f4 > result1_forplot.txt
 
 grep result: result2_par.example_f4 > result2_forplot.txt
 
+Plot the results in R
 
 
