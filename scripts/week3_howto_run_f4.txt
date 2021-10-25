@@ -17,20 +17,22 @@ head -4 f4_uniq_pops.txt > x
 python3 ./combination.py x f4_all_combs.txt
 
 
-#To run f4 statistics using Admixtools by providing a popfilename: [4 pops in each line] [f4_all_combs.txt]
+#STEP4: To run f4 statistics using Admixtools by providing a popfilename: [4 pops in each line] [f4_all_combs.txt]
 
 /usr/local/sw/AdmixTools/bin/qpDstat -p par.example_f4 > result1_par.example_f4
 
-#To run f4 statistics using Admixtools by providing a poplist [f4_uniq_pops.txt]
+
+#STEP5: To run f4 statistics using Admixtools by providing a poplist [f4_uniq_pops.txt]
 
 /usr/local/sw/AdmixTools/bin/qpDstat -p par.example2_f4 > result2_par.example_f4
 
-#Plot results
+#STEP6: Plot results
 
 grep result: result1_par.example_f4 > result1_forplot.txt
 
 grep result: result2_par.example_f4 > result2_forplot.txt
 
 Plot the results in R
+
 
 
