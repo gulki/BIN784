@@ -2,7 +2,7 @@
 
 /usr/local/sw/AdmixTools/bin/convertf -p par.convert
 
-#STEP2: Obtain a list of populations in your file set:
+#STEP2: Obtain a list of populations in your file set [f4_uniq_pops.txt]
 
 check_pops.sh 
 
@@ -10,16 +10,18 @@ check_pops.sh
 
 awk '{print $6}' bin784_example_fstat.pedind | sort -u | head -4 > f4_uniq_pops.txt 
 
-#STEP3: Prepare a combinations file
+#STEP3: Prepare a combinations file [f4_all_combs.txt]
+
+head -4 f4_uniq_pops.txt > x
+
+python3 ./combination.py x f4_all_combs.txt
 
 
-
-
-#To run f4 statistics using Admixtools by providing a popfilename: [4 pops in each line]
+#To run f4 statistics using Admixtools by providing a popfilename: [4 pops in each line] [f4_all_combs.txt]
 
 /usr/local/sw/AdmixTools/bin/qpDstat -p par.example_f4 > result1_par.example_f4
 
-#To run f4 statistics using Admixtools by providing a poplist
+#To run f4 statistics using Admixtools by providing a poplist [f4_uniq_pops.txt]
 
 /usr/local/sw/AdmixTools/bin/qpDstat -p par.example2_f4 > result2_par.example_f4
 
