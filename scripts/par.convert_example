@@ -1,10 +1,10 @@
-genotypename: data.geno
-snpname:      data.snp
-indivname:    data.ind
-outputformat: PED
-genooutfilename:   data.ped
-snpoutfilename:    data.map
-indoutfilename:    data.pedind
+genotypename: bin784_example_fstat.ped
+snpname:      bin784_example_fstat.map
+indivname:    bin784_example_fstat.pedind
+outputformat: EIGENSTRAT
+genooutfilename:   bin784_example_fstat.geno
+snpoutfilename:    bin784_example_fstat.snp
+indoutfilename:    bin784_example_fstat.ind
 outputgroup: YES
 familynames: NO
 hashcheck: NO
