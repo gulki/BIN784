@@ -1,0 +1,5 @@
+genotypename:  bin784_example_fstat.geno
+snpname:   bin784_example_fstat.snp
+indivname:   bin784_example_fstat.ind
+poplistname:  f4_uniq_pops.txt
+f4mode:   YES
