@@ -8,6 +8,11 @@ check_pops.sh
 
 #OR
 
+awk '{print $6}' bin784_example_fstat.pedind | sort -u | head -4 > f4_uniq_pops.txt 
+
+#STEP3: Prepare a combinations file
+
+
 
 
 #To run f4 statistics using Admixtools by providing a popfilename: [4 pops in each line]
