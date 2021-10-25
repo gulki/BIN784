@@ -2,6 +2,14 @@
 
 /usr/local/sw/AdmixTools/bin/convertf -p par.convert
 
+#STEP2: Obtain a list of populations in your file set:
+
+check_pops.sh 
+
+#OR
+
+
+
 #To run f4 statistics using Admixtools by providing a popfilename: [4 pops in each line]
 
 /usr/local/sw/AdmixTools/bin/qpDstat -p par.example_f4 > result1_par.example_f4
