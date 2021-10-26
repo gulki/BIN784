@@ -12,9 +12,7 @@ awk '{print $6}' bin784_example_fstat.pedind | sort -u | head -4 > f4_uniq_pops.
 
 #STEP3: Prepare a combinations file [f4_all_combs.txt]
 
-head -4 f4_uniq_pops.txt > x
-
-python3 ./combination.py x f4_all_combs.txt
+python3 ./combination.py f4_uniq_pops.txt  f4_all_combs.txt
 
 
 #STEP4: To run f4 statistics using Admixtools by providing a popfilename: [4 pops in each line] [f4_all_combs.txt]
