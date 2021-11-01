@@ -43,7 +43,7 @@ Bioinformatics for Population Genetics which I teach @Dept of Bioinformatics @Ha
 
 **Week-4**  **Discovery analyses - Principal Component Analysis (PCA)**
 
-**Aim:** Understanding the PCA, running a simple PCA
+**Aim:** Understanding the PCA, understanding what can PCA tell us in population genetics, running a simple PCA
 
 **Hands-on:** Running _smartpca_ tool of AdmixTools for PCA and plotting the results in R.
 
