@@ -1,0 +1,1 @@
+scp yourusername@10.135.10.20:/path/to/file /path/to/your/local/folder
