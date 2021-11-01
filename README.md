@@ -41,9 +41,15 @@ Bioinformatics for Population Genetics which I teach @Dept of Bioinformatics @Ha
 **Reading suggestions:** Nielsen and Slatkin, 2013, Chapter 2; Peter B, 2016, doi:10.1534/genetics.115.183913
 , Patterson et al, 2012 doi: 10.1534/genetics.112.145037; https://github.com/bodkan/admixr
 
-Week-4  Discovery analyses - PCA 
+**Week-4**  Discovery analyses - Principal Component Analysis (PCA)
 
-Week-5  Discovery analyses - ADMIXTURE 
+**Aim:** Understanding the PCA, learning eigenvectors and eigenvalues, running a simple PCA
+
+**Hands-on:** Running _smartpca_ tool of AdmixTools for PCA and plotting the results in R.
+
+**Reading suggestions:** Patterson N, Price A, Reich D (2006) Population Structure and Eigen Analysis doi: https://doi.org/10.1371/journal.pgen.0020190
+
+**Week-5**  Discovery analyses - ADMIXTURE 
 
 Week-6  Genotype-likelihoods based analyses - ANGSD 
 
