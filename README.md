@@ -18,13 +18,13 @@ Bioinformatics for Population Genetics which I teach @Dept of Bioinformatics @Ha
 
 ### **SYLLABUS:**
 
-**Week-1**  Genome, sequencing and sequencing data - studying genetic variation
+**Week-1**  **Genome, sequencing and sequencing data - studying genetic variation**
 
 **Aim:** Learning about the sequencing data, data formats, programs, softwares, tools to prepare genomic datasets for population genetics analyses
 
 **Hands-on:** Examining the file formats, small edits on eigenstrat and plink files, conversion of file formats to each other using [convertf](https://github.com/DReichLab/AdmixTools/blob/master/convertf/README), becoming familiar with [Plink](https://zzz.bwh.harvard.edu/plink/index.shtml)
 
-**Week-2**  Allele and genotype frequencies
+**Week-2** **Allele and genotype frequencies**
 
 **Aim:** Learning about basic population genetics concepts, allele and genotype frequencies, HWE, 
 
@@ -32,7 +32,7 @@ Bioinformatics for Population Genetics which I teach @Dept of Bioinformatics @Ha
 
 **Reading suggestions:** Nielsen and Slatkin 2013 An Introduction to Population Genetics Chapter 1
 
-**Week-3** Genetic drift, mutation and studying the shared evolutionary history of populations
+**Week-3** **Genetic drift, mutation and studying the shared evolutionary history of populations**
 
 **Aim:** Understanding genetic drift. Studying the relationships (allele frequency correlations) between populations: Introduction to F-statistics.
 
@@ -41,7 +41,7 @@ Bioinformatics for Population Genetics which I teach @Dept of Bioinformatics @Ha
 **Reading suggestions:** Nielsen and Slatkin, 2013, Chapter 2; Peter B, 2016, doi:10.1534/genetics.115.183913
 , Patterson et al, 2012 doi: 10.1534/genetics.112.145037; https://github.com/bodkan/admixr
 
-**Week-4**  Discovery analyses - Principal Component Analysis (PCA)
+**Week-4**  **Discovery analyses - Principal Component Analysis (PCA)**
 
 **Aim:** Understanding the PCA, learning eigenvectors and eigenvalues, running a simple PCA
 
