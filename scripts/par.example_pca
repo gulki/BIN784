@@ -1,0 +1,5 @@
+genotypename: /DATA/BIN784/data/week3/bin784_example_fstat.geno
+snpname: /DATA/BIN784/data/week3/bin784_example_fstat.snp
+indivname: /DATA/BIN784/data/week3/bin784_example_fstat.ind
+evecoutname: bin784_example.evec
+evaloutname: bin784_example.eval
