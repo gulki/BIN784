@@ -1,3 +1,8 @@
+/usr/local/sw/plink --file bin784_example_fstat --extract plink.prune.in --allele1234 --recode --out admixture_data 
+
+
+
+
 /usr/local/sw/plink --file data/week3/bin784_example_fstat --allele1234 --recode --out admix1
 
 python updatepop.py data/week3/bin784_example_fstat.pedind admix1.ped > x
