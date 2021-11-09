@@ -1,15 +1,10 @@
 /usr/local/sw/plink --file bin784_example_fstat --extract plink.prune.in --allele1234 --recode --out admixture_data 
 
+python updatepop.py data/week3/bin784_example_fstat.pedind admixture_data.ped > x
 
+mv x admixture_data.ped
 
-
-/usr/local/sw/plink --file data/week3/bin784_example_fstat --allele1234 --recode --out admix1
-
-python updatepop.py data/week3/bin784_example_fstat.pedind admix1.ped > x
-
-mv x admix1.ped
-
-/usr/local/sw/plink --file data/week3/bin784_example_fstat --make-bed --out admix2
+/usr/local/sw/plink --file admixture_data --make-bed --out admixture_final_prunned
 
 
 
