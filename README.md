@@ -55,7 +55,7 @@ Bioinformatics for Population Genetics which I teach @Dept of Bioinformatics @Ha
 
 **Hands-on:** Running ADMIXTURE software and plotting the results in R
 
-**Week-6  Genotype likelihoods based analyses - ANGSD **
+**Week-6**  **Genotype likelihoods based analyses - ANGSD**
 
 **Aim:**  Introduction to ANGSD, becoming familiar with probabilistic methods for dataset preparation
 
@@ -72,5 +72,3 @@ Week-10  Measuring diversity: LD and ROH
 Week-11 Selection analysis
 
 Week-12 Forward-time genetic simulations: SLiM
-
-Week-13 Student presentations
