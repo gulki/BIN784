@@ -49,9 +49,17 @@ Bioinformatics for Population Genetics which I teach @Dept of Bioinformatics @Ha
 
 **Reading suggestions:** Patterson N, Price A, Reich D (2006) Population Structure and Eigen Analysis doi: https://doi.org/10.1371/journal.pgen.0020190
 
-**Week-5**  Discovery analyses - ADMIXTURE 
+**Week-5**  **Discovery analyses - ADMIXTURE **
 
-Week-6  Genotype-likelihoods based analyses - ANGSD 
+**Aim:** Learning how to run an ADMIXTURE analysis, running a simple analysis, introduction to Pong and Clumpp
+
+**Hands-on:** Running ADMIXTURE software and plotting the results in R
+
+**Week-6  Genotype likelihoods based analyses - ANGSD **
+
+**Aim:**  Introduction to ANGSD, becoming familiar with probabilistic methods for dataset preparation
+
+**Hands-on:** Running ANGSD on low coverage data
 
 Week-7  Midterm-1
 
