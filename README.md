@@ -65,7 +65,7 @@ _Week-7  Midterm-1_
 
 **Week-8**  **Admixture Modelling: qpAdm**
 
-**Aim:**  Understanding admixture modelling
+**Aim:**  Understanding admixture modelling, learning how to run qpAdm analysis
 
 **Hands-on:** Running qpAdm on an example dataset
 
