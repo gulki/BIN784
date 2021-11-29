@@ -61,9 +61,13 @@ Bioinformatics for Population Genetics which I teach @Dept of Bioinformatics @Ha
 
 **Hands-on:** Running ANGSD on low coverage data
 
-Week-7  Midterm-1
+_Week-7  Midterm-1_
 
-Week-8  Modelling: QpAdm
+**Week-8**  **Admixture Modelling: qpAdm**
+
+**Aim:**  Understanding admixture modelling
+
+**Hands-on:** Running qpAdm on an example dataset
 
 Week-9  Admixture graph fitting: QpGraph
 
