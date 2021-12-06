@@ -69,10 +69,10 @@ _Week-7  Midterm-1_
 
 **Hands-on:** Running qpAdm on an example dataset
 
-Week-9  Admixture graph fitting: QpGraph
+**Week-9**  **Admixture graph fitting: qpGraph**
 
 Week-10  Measuring diversity: LD and ROH
 
-Week-11 Selection analysis
+Week-11 Forward-time genetic simulations: SLiM
 
-Week-12 Forward-time genetic simulations: SLiM
+Week-12 Student presentations
