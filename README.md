@@ -30,4 +30,4 @@ Mark Jobling, Edward Hollox, Matthew Hurles, Toomas Kivisild, Chris Tyler-Smith,
 
 **Aim:** Learning file formats for storing data [FASTQ, BAM, VCF, PLINK, EIGENSTRAT] 
 
-**Reading suggestions:** Luikart, G., England, P., Tallmon, D. et al. The power and promise of population genomics: from genotyping to genome typing. Nat Rev Genet 4, 981?994 (2003). https://doi.org/10.1038/nrg1226
+**Reading suggestions:** Luikart, G., England, P., Tallmon, D. et al. The power and promise of population genomics: from genotyping to genome typing. Nat Rev Genet 4, 981994 (2003). https://doi.org/10.1038/nrg1226
