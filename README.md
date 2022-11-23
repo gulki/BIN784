@@ -51,4 +51,10 @@ Mark Jobling, Edward Hollox, Matthew Hurles, Toomas Kivisild, Chris Tyler-Smith,
 **Aim:** 
 
 
+**Week-6** **F-statistics to measure shared genetic drift between populations**
+
+**Reading suggestions:** 
+
+**Aim:** 
+
 
