@@ -46,7 +46,7 @@ Mark Jobling, Edward Hollox, Matthew Hurles, Toomas Kivisild, Chris Tyler-Smith,
 
 **Week-5** **Discovery analysis: Principal component analysis to study genetic relationship between distinct populations**
 
-**Reading suggestions:** 
+**Reading suggestions:** Novembre J, Johnson T, Bryc K, Kutalik Z, Boyko AR, Auton A, Indap A, King KS, Bergmann S, Nelson MR, Stephens M, Bustamante CD. Genes mirror geography within Europe. Nature. 2008 Nov 6;456(7218):98-101. doi: 10.1038/nature07331. ; McVean G. A genealogical interpretation of principal components analysis. PLoS Genet. 2009 Oct;5(10):e1000686. doi: 10.1371/journal.pgen.1000686. Epub 2009 Oct 16. PMID: 19834557; PMCID: PMC2757795. ; Benjamin M Peter, Desislava Petkova, John Novembre, Genetic Landscapes Reveal How Human Genetic Diversity Aligns with Geography, Molecular Biology and Evolution, Volume 37, Issue 4, April 2020, Pages 943–951, https://doi.org/10.1093/molbev/msz280 
 
 **Aim:** 
 
