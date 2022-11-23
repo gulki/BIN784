@@ -38,13 +38,13 @@ Mark Jobling, Edward Hollox, Matthew Hurles, Toomas Kivisild, Chris Tyler-Smith,
 
 **Aim:** Learning the concept of genotype probabilities and running ANGSD on low coverage population genetic sequence data
 
-**Week-4** Preparing genomic datasets for population genetics analysis 
+**Week-4** **Preparing genomic datasets for population genetics analysis**
 
 **Programs:** https://github.com/stschiff/sequenceTools ; https://zzz.bwh.harvard.edu/plink/data.shtml https://www.htslib.org ; 
 
 **Aim:** Using Plink, Eigensoft and sequenceTools for preparing genomic datasets including SNPs and individual genotypes. Becoming familiar with solutions for low coverage genome sequencing data
 
-**Week-5** Discovery analysis: Principal component analysis to study genetic relationship between distinct populations
+**Week-5** **Discovery analysis: Principal component analysis to study genetic relationship between distinct populations**
 
 **Reading suggestions:** 
 
