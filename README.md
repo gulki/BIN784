@@ -20,7 +20,7 @@ Bioinformatics for Population Genetics @Dept of Bioinformatics @Hacettepe Univer
 
 **Week-1** **Introduction to population genetics**
 
-**Aim:** Learning the basic concepts in population genetics
+**Aim:** Learning the basic concepts in population genetics i.e. Basic terminology, allele frequency, genotype frequency, HWE, WF model, Genetic Drift, Mutation
 
 **Reading suggestions:** Nielsen & Slatkin 2013 An Introduction to population genetics. Chapter 1 & 2 
 
@@ -36,7 +36,7 @@ Mark Jobling, Edward Hollox, Matthew Hurles, Toomas Kivisild, Chris Tyler-Smith,
 
 **Programs:** https://github.com/stschiff/sequenceTools ; https://zzz.bwh.harvard.edu/plink/data.shtml https://www.htslib.org ; 
 
-**Aim:** Using Plink, Eigensoft and sequenceTools for preparing genomic datasets including SNPs and individual genotypes. Becoming familiar with solutions for low coverage genome sequencing data
+**Aim:** Using Plink, Eigensoft and sequenceTools for preparing genomic datasets including SNPs and individual genotypes. Becoming familiar with solutions for low coverage genome sequencing data, conversion of data formats to eachother
 
 
 **Week-4** **Considering the statistical uncertainty: Population genetics analysis based on genotype probabilities - ANGSD & ngsTools**
@@ -50,13 +50,24 @@ Mark Jobling, Edward Hollox, Matthew Hurles, Toomas Kivisild, Chris Tyler-Smith,
 
 **Reading suggestions:** Novembre J, Johnson T, Bryc K, Kutalik Z, Boyko AR, Auton A, Indap A, King KS, Bergmann S, Nelson MR, Stephens M, Bustamante CD. Genes mirror geography within Europe. Nature. 2008 Nov 6;456(7218):98-101. doi: 10.1038/nature07331. ; McVean G. A genealogical interpretation of principal components analysis. PLoS Genet. 2009 Oct;5(10):e1000686. doi: 10.1371/journal.pgen.1000686. Epub 2009 Oct 16. PMID: 19834557; PMCID: PMC2757795. ; Benjamin M Peter, Desislava Petkova, John Novembre, Genetic Landscapes Reveal How Human Genetic Diversity Aligns with Geography, Molecular Biology and Evolution, Volume 37, Issue 4, April 2020, Pages 943–951, https://doi.org/10.1093/molbev/msz280 
 
-**Aim:** 
+**Aim:**  To run PCA on high coverage and low coverage human genome sequences, visualizing the results, interpretation of the results
 
 
-**Week-6** **F-statistics to measure shared genetic drift between populations**
+**Week-6** **F3-statistics**
 
-**Reading suggestions:** 
 
-**Aim:** 
+**Aim:** To learn how to run Outgroup f3 statistics and admixture f3 statistics on genomic data, visualizing the results, interpretation of the results
+
+**Week-7** **F4-statistics**
+
+
+**Aim:** To learn how to run f4 statistics on genomic data, visualizing the results, interpretation of the results
+
+
+
+**Week-8** **MIDTERM**
+
+
+
 
 
