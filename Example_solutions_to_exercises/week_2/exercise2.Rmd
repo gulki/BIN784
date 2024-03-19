@@ -1,0 +1,51 @@
+---
+title: "Exercise2"
+author: "Dila Nur Cakal"
+date: "2024-03-18"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## VCFtools examples
+
+For each variant in the file calculate allele frequency:
+```{bash}
+vcftools --vcf ALL.chr22.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf --freq --out allele_frequency_ALLchr22
+```
+
+
+Filter variants based on min depth of 10 and max depth of 100:
+```{bash}
+vcftools --vcf ALL.chr22.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf --minDP 10 --maxDP 100 --recode --out depth_filtered_out_ALLchr22
+```
+
+
+Estimate relatedness between individuals:
+```{bash}
+vcftools --vcf ALL.chr22.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf --relatedness2 --out relatedness_estimation_ALLchr22
+```
+
+
+Convert vcf to plink format:
+```{bash}
+vcftools --vcf ALL.chr22.shapeit2_integrated_snvindels_v2a_27022019.GRCh38.phased.vcf --out ALL_chr22 --plink
+```
+
+
+Plink to vcf format using plink:
+```{bash}
+/usr/local/sw/plink --file subset --recode vcf
+```
+
+
+
+
+
+
+
+
